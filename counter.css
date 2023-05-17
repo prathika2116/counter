@@ -1,0 +1,31 @@
+.container{
+    height:250px;
+    width:500px;
+    border-radius: 25px;
+    background-color: rgb(51, 51, 52);
+    opacity: 0.9;
+    padding-top:50px;
+    margin-top:200px;
+}
+body{ 
+    max-width: 500px;
+    margin: auto;
+    font-family:Mogra;
+background-image: url("https://promo.com/tools/image-resizer/static/Pattern_image-8c050053eab884e51b8599607865d112.jpg");
+ }
+ h1{
+    font-size: 40px;
+     color:blueviolet;
+ }
+#text{
+    font-size: 50px;
+    color: rgb(216, 181, 248);
+}
+.btn{
+    border-radius: 5px;
+    height: 30px;
+    font-family:Mogra;
+    width:80px;
+    background-color: black;
+    color: rgb(154, 196, 233);
+}
